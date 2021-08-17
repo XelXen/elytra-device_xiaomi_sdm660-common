@@ -74,7 +74,8 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     android.hardware.bluetooth.audio@2.0-impl:32 \
-    audio.bluetooth.default
+    audio.bluetooth.default \
+    libldacBT_bco
 
 PRODUCT_PACKAGES += \
     libhdmiedid \
